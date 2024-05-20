@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.py": "python",
+        "airports.h": "c",
+        "rtree.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
